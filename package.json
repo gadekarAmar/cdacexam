@@ -1,7 +1,7 @@
 {
-  "name": "examrepo",
+  "name": "vijaysales",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is simple Vijay Sales online shopping application",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gadekarAmar/EXAMREPO.git"
+    "url": "git+https://github.com/RaviTambade/vijaysales.git"
   },
-  "author": "",
+  "author": "Ravi Tambade",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gadekarAmar/EXAMREPO/issues"
+    "url": "https://github.com/RaviTambade/vijaysales/issues"
   },
-  "homepage": "https://github.com/gadekarAmar/EXAMREPO#readme",
+  "homepage": "https://github.com/RaviTambade/vijaysales#readme",
   "dependencies": {
     "express": "^4.18.1"
   }
